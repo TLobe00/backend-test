@@ -7,6 +7,7 @@ There are a few items that I have made assumptions in processing
 
 ## Running the Script
 ```bash
+composer update
 cd app
 php importer.php AAA1-Customers.csv AAA1-Locations.csv
 ```
