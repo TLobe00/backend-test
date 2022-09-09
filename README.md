@@ -4,6 +4,7 @@
 There are a few items that I have made assumptions in processing
 
 - If the CustomerNumber (from the customer import CSV) is invalid, it reads the highest number in the DB and creates a new record based on this.  Since there were no instructions on unique emails or names (only CustomerNumber), there is a chance that a customer could potentially be entered twice with a new number.  This could be rectified by adding unique values to email or name and not allowing a subsequent record to be inserted into the db; or by skipping the record all together and only looking for NULL values for new record insertion.
+- This is also assuming the server running this script would have up-to-date PHP services.
 
 ## Running the Script
 ```bash
