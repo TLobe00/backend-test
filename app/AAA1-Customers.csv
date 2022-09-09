@@ -1,0 +1,7 @@
+CustomerNumber,FirstName,LastName,EmailAddress,MobilePhone,HomePhone,Birthday,Status
+1000,Garry,Jones,garry.jones@example.com,214-444-5555,,11/15/1983,1
+1001,Samantha,O'Neil,samantha@,713-444-3333,817-432-4899,,1
+1002,Robert,Naismith,robertn@example.com,832-5899,469-388-3990,9/12/1967,0
+1003,Günter,Elford,gelford@apple.com,7132138888,,4-23-73,1
+1003,Güntër,Elford,gelford@apple.com,71321388988,4697773333,4-23-73,1
+abcdef,Güntër,Elford,gelford@apple.com,71321388988,4697773333,4-23-73,1

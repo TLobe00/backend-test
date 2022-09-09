@@ -1,0 +1,8 @@
+CustomerNumber,LocationNumber,StreetAddress,CityName,StateCode,PostalCode,Notes
+1000,1000,819 Merry Lane,Dallas,TX,75228,Garry has twelve units installed at this location.
+1000,1001,713 Teakwood Drive,Rockwall,TX,75087,Purchased in 2017.
+,1002,1 Riverside Drive,Plano,TX,75093,
+1002,1003,795 Featherstone Dr.,Rockwall,TX,75087,"Home built in 2016, 4272 sqft."
+1003,1004,,Dallas,TX,,
+1003,1005,7511 Rocky Lane,Dallas,TX,75214,
+1003,1005,7566 Randolph Lane,Fate,TX,75032,HOA requires check-in at front gate.
